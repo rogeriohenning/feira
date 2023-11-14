@@ -67,6 +67,10 @@
     display: none;
 }
 
+.container__imagem{
+    width: 30px;
+}
+
 @media screen and (min-width: 1024px) {
     .container__titulo{
         font-family: var(--fonte-secundaria);
