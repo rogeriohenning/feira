@@ -5,13 +5,13 @@ table {
 }
 
 th, td {
-    border: 1px solid var(--amarelo);
+    border: 1px solid var(--roxo);
     padding: 8px;
     text-align: justify;
 }
 
 th {
-    background-color: var(--roxo);
+    background-color: var();
 }
 
 /* Define a largura da primeira coluna */
