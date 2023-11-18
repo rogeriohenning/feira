@@ -3,11 +3,11 @@
 @import url(styles/paragrafos.css);
 
 :root{
-    --cor-de-fundo:#e5e5e5;
+    --cor-de-fundo:#dbd5d7;
     --branco:#ffffff;
-    --amarelo:#ebff04;
-    --roxo:#5506bd;
-    --roxo-degrade: linear-gradient(94.49deg, #733887 35.48%, #c75eeb 143.32%);
+    --amarelo:#d4fd09;
+    --roxo:#73018c;
+    --roxo-degrade: linear-gradient(94.49deg, #73018c 35.48%, #c75eeb 143.32%);
     --fonte-principal:"Poppins";
     --fonte-secundaria: "Josefin Sans";
     --preto:#000000;
@@ -21,4 +21,13 @@ body{
 }
 h1{
     background-color: white;
+}
+.footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
