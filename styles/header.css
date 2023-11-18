@@ -57,6 +57,7 @@
 .container__titulo{
     display: none;
     text-decoration: none;
+    color: var(--preto);
 }
 
 .container{
