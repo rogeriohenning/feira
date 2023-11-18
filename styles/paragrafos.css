@@ -1,6 +1,9 @@
 .cepa{
     width: 100px;
     justify-content: center;
+    display: block;
+    margin:0 auto;
+    max-width: 100%;
 }
 
 .paragrafo{
