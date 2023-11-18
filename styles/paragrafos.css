@@ -1,0 +1,14 @@
+.cepa{
+    width: 50px;
+}
+
+.paragrafo{
+    font-family: var(--fonte-secundaria);
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--preto);
+}
+
+.cartaz{
+    width: 50px;
+}
