@@ -15,8 +15,7 @@
 
 .cartaz{
     width: 10px;
-    justify-content: center;
     display: block;
-    margin:0 auto;
+    margin: auto;
     max-width: 100%;
 }
