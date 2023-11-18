@@ -23,8 +23,8 @@ h1{
     background-color: white;
 }
 .footer{
-    background-color: #333;
-    color: white;
+    background-color:var(--amarelo);
+    color: var(--preto);
     text-align: center;
     padding: 10px;
     position: fixed;
