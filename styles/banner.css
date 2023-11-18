@@ -33,3 +33,8 @@
     background: url(../img/Lupa.svg) no-repeat;
     background-position: 0 .2em;
 }
+
+.banner__titulo--1{
+    font-size: 30px;
+    font-weight: 700;
+}
