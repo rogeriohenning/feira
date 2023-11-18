@@ -7,11 +7,11 @@ table {
 th, td {
     border: 1px solid var(--amarelo);
     padding: 8px;
-    text-align: left;
+    text-align: justify;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: var(--roxo);
 }
 
 /* Define a largura da primeira coluna */
