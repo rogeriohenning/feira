@@ -29,7 +29,6 @@ h1{
     padding: 10px;
     bottom: 0;
     width: 100%;
-    display: flex;
     position: relative;
     font-family: var(--fonte-principal);
 }
