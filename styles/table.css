@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Adicione uma margem inferior para espaçamento */
+}
+
+th, td {
+    border: 1px solid var(--amarelo);
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Define a largura da primeira coluna */
+td:first-child {
+    width: 30%;
+}

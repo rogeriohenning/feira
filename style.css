@@ -1,6 +1,7 @@
 @import url(styles/header.css);
 @import url(styles/banner.css);
 @import url(styles/paragrafos.css);
+@import url(styles/table.css);
 
 :root{
     --cor-de-fundo:#dbd5d7;
