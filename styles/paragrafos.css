@@ -13,6 +13,7 @@
     color: var(--preto);
     line-height: 1.3;
     text-align: justify;
+    margin: 20px;
 }
 
 .cartaz{
