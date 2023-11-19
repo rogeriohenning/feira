@@ -8,6 +8,7 @@ th, td {
     border: 1px solid var(--roxo);
     padding: 8px;
     text-align: justify;
+    vertical-align: middle;
 }
 
 th {
