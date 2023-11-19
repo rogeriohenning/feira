@@ -16,5 +16,5 @@ th {
 
 /* Define a largura da primeira coluna */
 td:first-child {
-    width: 30%;
+    width: 20%;
 }
