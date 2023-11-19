@@ -55,5 +55,8 @@ a{
 }
 
 .logo{
-    width: 50px;
+    width: 300px;
+    height: 200px;
+    overflow: hidden; /* Garante que as imagens maiores não transbordem do contêiner */
+    margin: 10px;
 }
